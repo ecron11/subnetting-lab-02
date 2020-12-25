@@ -1,0 +1,8 @@
+.correct {
+    border: 1px solid green;
+}
+
+.incorrect {
+    border: 1px solid red;
+}
+
